@@ -1,0 +1,30 @@
+{
+    "spell": {
+        "0": "execute",
+        "1": "retribution",
+        "2": "inspire",
+        "3": "sprint",
+        "4": "revitalize",
+        "5": "aegis",
+        "6": "petrify",
+        "7": "purify",
+        "8": "flameshot",
+        "9": "flicker",
+        "10": "arrival",
+        "11": "vengeance"
+    },
+    "shortname": {
+        "0": "e",
+        "1": "r",
+        "2": "i",
+        "3": "s",
+        "4": "rv",
+        "5": "a",
+        "6": "pt",
+        "7": "pu",
+        "8": "f",
+        "9": "fl",
+        "10": "ar",
+        "11": "v"
+    }
+}
